@@ -5,6 +5,7 @@ currently in my third year of studying **Information Technologies**.
 I'm passionate about **software development**, **web technologies**, and **problem-solving**.
 Always eager to learn and explore new tools and frameworks!
 
+---
 ## 🚀 Currently Studying
 
 Currently, I’m diving into various tech stacks, from **frontend** to **backend** development. Here are some of the subjects I’m actively working on:
